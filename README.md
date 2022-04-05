@@ -1,2 +1,2 @@
 # Qwiklabs-Assessment-Introduction-to-Github
-This is assignment
+I am editing the README file. Adding some more details about the project description.
